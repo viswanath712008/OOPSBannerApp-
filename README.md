@@ -17,7 +17,7 @@ This is a simple Java program that displays "OOPS" to the console.
         O   O  O   O  P     SSS  
          OOO    OOO   P      SSS 
 ```
-
+# Java OOPS Program
 
 This is a simple Java program that displays "OOPS" to the console using Hashmap.
 
