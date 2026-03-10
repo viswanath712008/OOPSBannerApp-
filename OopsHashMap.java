@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Oops {
+public class OopsHashMap {
     private static HashMap<Character, String[]> patterns = new HashMap<>();
 
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class Oops {
         });
         patterns.put('P', new String[]{
             "  PPPP ",
-            " P   P ",
+            "  P   P ",
             " PPPP  ",
             "P     ",
             " P     ",
