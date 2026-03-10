@@ -1,12 +1,82 @@
 # Java OOPS Program
 
-This is a simple Java program that displays "OOPS" to the console.
+This is a simple Java program that displays "OOPS" .
 
 ## How to Run
 
 1. Ensure you have Java installed (JDK 8 or higher).
-2. Compile the program: `javac Oops.java`
-3. Run the program: `java Oops`
+2. Compile the program: `oopsucs1.java`
+3. Run the program: `oopsucs1.java`
+
+## Output
+```
+OOPS
+```
+# Java OOPS Program
+
+This is a simple Java program that displays "OOPS" .
+
+## How to Run
+
+1. Ensure you have Java installed (JDK 8 or higher).
+2. Compile the program: `oopsucs2.java`
+3. Run the program: `oopsucs2.java`
+
+## Output
+```
+OOPS
+```
+# Java OOPS Program
+
+This is a simple Java program that displays "OOPS" .
+
+## How to Run
+
+1. Ensure you have Java installed (JDK 8 or higher).
+2. Compile the program: `oopsucs3.java`
+3. Run the program: `oopsucs3.java`
+
+## Output
+```
+OOPS
+```
+# Java OOPS Program
+
+This is a simple Java program that displays "OOPS" .
+
+## How to Run
+
+1. Ensure you have Java installed (JDK 8 or higher).
+2. Compile the program: `oopsucs4.java`
+3. Run the program: `oopsucs4.java`
+
+## Output
+```
+OOPS
+```
+# Java OOPS Program
+
+This is a simple Java program that displays "OOPS" .
+
+## How to Run
+
+1. Ensure you have Java installed (JDK 8 or higher).
+2. Compile the program: `oopsucs5.java`
+3. Run the program: `oopsucs5.java`
+
+## Output
+```
+OOPS
+```
+# Java OOPS Program
+
+This is a simple Java program that displays "OOPS" .
+
+## How to Run
+
+1. Ensure you have Java installed (JDK 8 or higher).
+2. Compile the program: `oopsucs6.java`
+3. Run the program: `oopsucs6.java`
 
 ## Output
 ```
