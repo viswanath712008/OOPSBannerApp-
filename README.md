@@ -24,7 +24,12 @@ This is a simple Java program that displays "OOPS" .
 
 ## Output
 ```
-OOPS
+          OOO   OOO   PPPP   SSSS 
+         O   O O   O  P   P S     
+        O     O     O PPPP   SSS  
+        O     O     O P         S 
+        O   O  O   O  P     SSS  
+         OOO    OOO   P      SSS 
 ```
 # Java OOPS Program
 
@@ -38,7 +43,12 @@ This is a simple Java program that displays "OOPS" .
 
 ## Output
 ```
-OOPS
+          OOO   OOO   PPPP   SSSS 
+         O   O O   O  P   P S     
+        O     O     O PPPP   SSS  
+        O     O     O P         S 
+        O   O  O   O  P     SSS  
+         OOO    OOO   P      SSS 
 ```
 # Java OOPS Program
 
@@ -52,7 +62,12 @@ This is a simple Java program that displays "OOPS" .
 
 ## Output
 ```
-OOPS
+          OOO   OOO   PPPP   SSSS 
+         O   O O   O  P   P S     
+        O     O     O PPPP   SSS  
+        O     O     O P         S 
+        O   O  O   O  P     SSS  
+         OOO    OOO   P      SSS 
 ```
 # Java OOPS Program
 
@@ -66,7 +81,12 @@ This is a simple Java program that displays "OOPS" .
 
 ## Output
 ```
-OOPS
+          OOO   OOO   PPPP   SSSS 
+         O   O O   O  P   P S     
+        O     O     O PPPP   SSS  
+        O     O     O P         S 
+        O   O  O   O  P     SSS  
+         OOO    OOO   P      SSS 
 ```
 # Java OOPS Program
 
@@ -80,7 +100,12 @@ This is a simple Java program that displays "OOPS" .
 
 ## Output
 ```
-OOPS
+          OOO   OOO   PPPP   SSSS 
+         O   O O   O  P   P S     
+        O     O     O PPPP   SSS  
+        O     O     O P         S 
+        O   O  O   O  P     SSS  
+         OOO    OOO   P      SSS 
 ```
 
 ## GitHub Setup
