@@ -18,6 +18,25 @@ This is a simple Java program that displays "OOPS" to the console.
          OOO    OOO   P      SSS 
 ```
 
+
+This is a simple Java program that displays "OOPS" to the console using Hashmap.
+
+## How to Run
+
+1. Ensure you have Java installed (JDK 8 or higher).
+2. Compile the program: `OopsOriginal.java`
+3. Run the program: `OopsOriginal.java`
+
+## Output
+```
+          OOO   OOO   PPPP   SSSS 
+         O   O O   O  P   P S     
+        O     O     O PPPP   SSS  
+        O     O     O P         S 
+        O   O  O   O  P     SSS  
+         OOO    OOO   P      SSS 
+```
+
 ## GitHub Setup
 
 To upload this to GitHub:
