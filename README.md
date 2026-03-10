@@ -5,12 +5,17 @@ This is a simple Java program that displays "OOPS" to the console.
 ## How to Run
 
 1. Ensure you have Java installed (JDK 8 or higher).
-2. Compile the program: `javac Oops.java`
-3. Run the program: `java Oops`
+2. Compile the program: `Oops.java`
+3. Run the program: `Oops.java`
 
 ## Output
 ```
-OOPS
+          OOO   OOO   PPPP   SSSS 
+         O   O O   O  P   P S     
+        O     O     O PPPP   SSS  
+        O     O     O P         S 
+        O   O  O   O  P     SSS  
+         OOO    OOO   P      SSS 
 ```
 
 ## GitHub Setup
